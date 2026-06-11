@@ -1,2 +1,2 @@
 # LinternaRojaRestaurante
-una pagina web estilo menu para el restaurante (La linterna Roja)
+A menu-style webpage for the restaurant 'La Linterna Roja' in Nuevo Vedado. The code was generated using Zia AI for development and Qwen for prompt engineering. The page was designed with Cuba's connectivity constraints in mind, which is why it's a static page built solely with HTML, CSS, and JavaScript.
